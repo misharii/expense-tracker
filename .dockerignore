@@ -1,0 +1,22 @@
+# Bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / project files
+.idea/
+.vscode/
+
+# Git and env
+.git
+.gitignore
+.env
+
+# OS / misc
+*.log
+desktop.ini
