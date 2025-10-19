@@ -38,7 +38,6 @@ RUN pip install --no-cache /wheels/*
 
 # Copy project files
 COPY app/ ./app/
-COPY .env .env
 COPY tst.txt requirements.txt ./
 
 # Expose FastAPI port
